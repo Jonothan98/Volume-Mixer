@@ -1,5 +1,5 @@
-const int NUMBER_OF_KNOBS = 1;
-const int analogInputs[NUMBER_OF_KNOBS] = {A0};
+const int NUMBER_OF_KNOBS = 5;
+const int analogInputs[NUMBER_OF_KNOBS] = {A0,A1,A2,A3,A4};
 
 int analogKnobValues[NUMBER_OF_KNOBS];
 
@@ -15,8 +15,8 @@ void loop() {
   // put your main code here, to run repeatedly:
     updateSliderValues();
     sendSliderValues();
-    printSliderValues();
     delay(10);
+    //printSliderValues();
 }
 
 void updateSliderValues(){
@@ -29,7 +29,7 @@ void sendSliderValues(){
   String builtString = String("");
 
   for(int i = 0; i < NUMBER_OF_KNOBS; i++){
-    builtString += String((int)analogKnobValues[i]);
+    builtString += String((int)map(analogKnobValues[i], 0, 1023, 0, 100));
 
     if(i < NUMBER_OF_KNOBS -1){
       builtString += String("|");
