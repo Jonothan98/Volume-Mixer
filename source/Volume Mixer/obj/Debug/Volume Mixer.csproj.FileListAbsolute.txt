@@ -1,0 +1,11 @@
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\bin\Debug\Volume Mixer.exe.config
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\bin\Debug\Volume Mixer.exe
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\bin\Debug\Volume Mixer.pdb
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\obj\Debug\Volume Mixer.csproj.AssemblyReference.cache
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\obj\Debug\Volume Mixer.csproj.SuggestedBindingRedirects.cache
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\obj\Debug\Volume Mixer.csproj.CoreCompileInputs.cache
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\obj\Debug\Volume Mixer.csproj.CopyComplete
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\obj\Debug\Volume Mixer.exe
+C:\Users\awake\Documents\Projects\Volume-Mixer\source\Volume Mixer\obj\Debug\Volume Mixer.pdb
